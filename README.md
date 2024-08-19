@@ -1,4 +1,4 @@
-# Sorting-Visulaizer
+# Sorting-Visualizer
 
 A web application showcasing the inner workings of sorting algorithms such as Bubble sort, Selection sort, Insertion sort, Merge sort, Quick sort, Heap sort
 
