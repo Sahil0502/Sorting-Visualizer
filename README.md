@@ -50,6 +50,8 @@ This tool is perfect for students, developers, and anyone interested in learning
    - Space Complexity: O(1)  
    - Stable: No  
 
+![image](https://github.com/user-attachments/assets/e5b0a714-258f-497a-b0f2-ff0f1e83a269)
+
 ## 💻 Getting Started
 
 Follow these steps to set up and run the project locally.
