@@ -78,6 +78,8 @@ Follow these steps to set up and run the project locally.
 - Sorting Concepts: Implemented sorting algorithms based on Data Structures and Algorithms       principles.
 
 ## 🖼 File Structure
+
+```plaintext
 Sorting-Visualizer/
 │
 ├── css/
@@ -86,11 +88,11 @@ Sorting-Visualizer/
 │   ├── bubbleSort.js       # Bubble sort algorithm implementation
 │   ├── quickSort.js        # Quick sort algorithm implementation
 │   ├── mergeSort.js        # Merge sort algorithm implementation
-│   └── [Other Algorithms]
+│   └── [Other Algorithms]  # Other sorting algorithms
 ├── index.html              # Main HTML file
 ├── README.md               # Project README
-└── .gitignore
-
+└── .gitignore              # Git ignore file
+```
 
 ## 📊 How It Works
 The Sorting Visualizer provides an animated representation of how sorting algorithms rearrange an array of bars (each representing a number). The bars change color and position to visually demonstrate the key operations of each algorithm, such as comparisons and swaps.
