@@ -9,6 +9,11 @@ This tool is perfect for students, developers, and anyone interested in learning
 ## 🚀 Features
 
 - 🎨 **Visual Representation**: Graphical animations that clearly show the steps of sorting algorithms.
+- **Colored Representation of Steps**:
+    1. **Blue**: Default color (unsorted elements).
+    2. **Yellow**: Elements being compared.
+    3. **Red**: Elements identified as in the incorrect position and to be moved.
+    4. **Green**: Elements in their correct position.
 - 🎛 **Adjustable Settings**: Modify the speed of the sorting process and change the size of the array being sorted.
 - 🎲 **Random Array Generation**: Generate arrays of different sizes and values with a single click.
 - 📱 **Responsive Design**: The application adapts to different screen sizes, so it’s viewable on both desktop and mobile devices.
